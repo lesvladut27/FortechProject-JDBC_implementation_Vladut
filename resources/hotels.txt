@@ -1,0 +1,61 @@
++++
+6
+Hotel Unirea
+Piața Unirii nr. 5, București
+0711234567
+bar
++++
+7
+Hotel Athena
+Strada Alexandru Ioan Cuza nr. 15, Iași
+0733234501
+restaurant
++++
+4
+Hotel Tranzit
+Strada Calea Dorobanților nr. 5, Timișoara
+0756234567
+SPA
++++
+5
+Hotel România
+Bulevardul Decebal nr. 23, Cluj-Napoca
+0765478901
+parking space
++++
+8
+Hotel Continental
+Bulevardul Mihai Viteazul nr. 3, Oradea
+0759987654
+pool
++++
+10
+Hotel Park
+Bulevardul Revoluției nr. 12, Timișoara
+0756234567
+parking space
++++
+15
+Hotel Castle
+Strada General Traian Moșoiu nr. 24, Bran
+0768345678
+restaurant
++++
+18
+Hotel Patria
+Piața Unirii nr. 1, Alba Iulia
+0746578901
+bar
++++
+22
+Hotel Cismigiu
+Bulevardul Regina Elisabeta nr. 38, București
+0711234567
+restaurant
++++
+25
+Hotel Nord
+Strada Cuza Vodă nr. 1, Timișoara
+0756234567
+SPA
+***
